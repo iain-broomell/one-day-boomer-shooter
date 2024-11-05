@@ -1,0 +1,11 @@
+Model Information:
+* title:	low-poly Sawed-Off Shotgun
+* source:	https://sketchfab.com/3d-models/low-poly-sawed-off-shotgun-07cf4898893e48c09c994d134e3387d1
+* author:	D.U. (https://sketchfab.com/D.U.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "low-poly Sawed-Off Shotgun" (https://sketchfab.com/3d-models/low-poly-sawed-off-shotgun-07cf4898893e48c09c994d134e3387d1) by D.U. (https://sketchfab.com/D.U.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

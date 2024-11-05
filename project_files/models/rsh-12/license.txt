@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-Poly RSh-12
+* source:	https://sketchfab.com/3d-models/low-poly-rsh-12-50567ba96a5340958aafe9b90db35e66
+* author:	TastyTony (https://sketchfab.com/TastyTony)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-Poly RSh-12" (https://sketchfab.com/3d-models/low-poly-rsh-12-50567ba96a5340958aafe9b90db35e66) by TastyTony (https://sketchfab.com/TastyTony) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
